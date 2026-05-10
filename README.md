@@ -29,34 +29,19 @@ It creates training sequences from the lyrics.<br>
 The AI model learns patterns between words.<br>
 After training, the model can generate new lyrics from a starting sentence.<br>
 
-Model Structure
-Embedding LayerLSTM LayerGRU LayerDense Output Layer
-Run The Program
-python main.py
-Example
-Input:Once I was sevenOutput:Once I was seven years old my mama told me
-Future Ideas
+## Model Structure
+Embedding LayerLSTM LayerGRU LayerDense Output Layer<br>
+Run The Program<br>
+python main.py<br>
+Example<br>
+Input:Once I was sevenOutput:Once I was seven years old my mama told me<br>
+Future Ideas<br>
 
+Train with bigger lyrics datasets<br>
+Generate longer songs<br>
+Add different music styles<br>
+Build a website version<br>
+Save trained models<br>
 
-Train with bigger lyrics datasets
-
-
-Generate longer songs
-
-
-Add different music styles
-
-
-Build a website version
-
-
-Save trained models
-
-
-Project Files
-├── main.py├── README.md└── requirements.txt
-Requirements
-numpytensorflow
-
-Author
+## Author
 Made by Vyan 🚀
