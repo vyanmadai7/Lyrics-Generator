@@ -9,16 +9,10 @@ It uses TensorFlow and NumPy to train a small neural network on lyrics text and 
 4.Generates new lyrics automatically<br>
 
 
-Tools Used
-
-
-Python
-
-
-NumPy
-
-
-TensorFlow / Keras
+## Tools Used
+1.Python<br>
+2.NumPy<br>
+3.TensorFlow / Keras<br>
 
 
 Installation
