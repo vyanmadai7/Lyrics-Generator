@@ -17,26 +17,17 @@ It uses TensorFlow and NumPy to train a small neural network on lyrics text and 
 
 ## Installation
 Clone the project:<br>
-git clone https://github.com/yourusername/ai-lyrics-generator.gitcd ai-lyrics-generator<br>
+git clone https://github.com/vyanmadai7/Lyrics-Generator<br>
+
 Install the required libraries:<br>
 pip install numpy tensorflow<br>
-How The Program Works<br>
 
-
-The program reads the lyrics text.
-
-
-It converts words into numbers using a tokenizer.
-
-
-It creates training sequences from the lyrics.
-
-
-The AI model learns patterns between words.
-
-
-After training, the model can generate new lyrics from a starting sentence.
-
+## How The Program Works?
+The program reads the lyrics text.<br>
+It converts words into numbers using a tokenizer.<br>
+It creates training sequences from the lyrics.<br>
+The AI model learns patterns between words.<br>
+After training, the model can generate new lyrics from a starting sentence.<br>
 
 Model Structure
 Embedding LayerLSTM LayerGRU LayerDense Output Layer
