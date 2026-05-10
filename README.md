@@ -15,12 +15,12 @@ It uses TensorFlow and NumPy to train a small neural network on lyrics text and 
 3.TensorFlow / Keras<br>
 
 
-Installation
-Clone the project:
-git clone https://github.com/yourusername/ai-lyrics-generator.gitcd ai-lyrics-generator
-Install the required libraries:
-pip install numpy tensorflow
-How The Program Works
+## Installation
+Clone the project:<br>
+git clone https://github.com/yourusername/ai-lyrics-generator.gitcd ai-lyrics-generator<br>
+Install the required libraries:<br>
+pip install numpy tensorflow<br>
+How The Program Works<br>
 
 
 The program reads the lyrics text.
