@@ -1,19 +1,12 @@
 ## AI Lyrics Generator 🎵<br>
 This is a simple AI project that can generate song lyrics.<br>
 It uses TensorFlow and NumPy to train a small neural network on lyrics text and then create new words based on a starting sentence.<br>
-What This Project Does
 
-
-Reads lyrics text
-
-
-Learns word patterns
-
-
-Predicts the next word
-
-
-Generates new lyrics automatically
+## What This Project Does
+-Reads lyrics text
+-Learns word patterns
+-Predicts the next word
+-Generates new lyrics automatically
 
 
 Tools Used
