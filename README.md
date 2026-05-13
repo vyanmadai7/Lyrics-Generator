@@ -1,4 +1,4 @@
-## AI Lyrics Generator 🎵<br>
+## AI Lyrics Generator <br>
 This is a simple AI project that can generate song lyrics.<br>
 It uses TensorFlow and NumPy to train a small neural network on lyrics text and then create new words based on a starting sentence.<br>
 
