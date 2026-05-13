@@ -35,6 +35,8 @@ It creates training sequences from the lyrics.<br>
 The AI model learns patterns between words.<br>
 After training, the model can generate new lyrics from a starting sentence.<br>
 
+--------------------
+
 ## Model Structure
 Embedding LayerLSTM LayerGRU LayerDense Output Layer<br>
 Run The Program<br>
