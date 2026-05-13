@@ -54,4 +54,4 @@ Save trained models<br>
 --------------------
 
 ## Author
-Made by Vyan 🚀
+Made by Vyan 
