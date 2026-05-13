@@ -8,6 +8,7 @@ It uses TensorFlow and NumPy to train a small neural network on lyrics text and 
 3.Predicts the next word<br>
 4.Generates new lyrics automatically<br>
 
+--------------------
 
 ## Tools Used
 1.Python<br>
