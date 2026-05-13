@@ -51,5 +51,7 @@ Add different music styles<br>
 Build a website version<br>
 Save trained models<br>
 
+--------------------
+
 ## Author
 Made by Vyan 🚀
