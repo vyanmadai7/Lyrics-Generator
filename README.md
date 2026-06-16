@@ -46,6 +46,8 @@ Example<br>
 Input:Once I was sevenOutput:Once I was seven years old my mama told me<br>
 Future Ideas<br>
 
+----------------------------
+
 Train with bigger lyrics datasets<br>
 Generate longer songs<br>
 Add different music styles<br>
