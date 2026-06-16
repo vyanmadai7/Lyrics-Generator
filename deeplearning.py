@@ -8,7 +8,7 @@ from tensorflow.keras.layers import Embedding, LSTM, GRU, Dense
 lyrics = """
 Once I was seven years old, my mama told me 
 "Go make yourself some friends, or you'll be lonely"
-Once I was seven years old
+Once I was seven years old...
 """
 
 tokenizer = Tokenizer()
