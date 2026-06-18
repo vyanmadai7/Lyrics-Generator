@@ -27,7 +27,7 @@ git clone https://github.com/vyanmadai7/Lyrics-Generator<br>
 Install the required libraries:<br>
 pip install numpy tensorflow<br>
 
-----------------------------
+--------------------------------
 
 ## How The Program Works?
 The program reads the lyrics text.<br>
