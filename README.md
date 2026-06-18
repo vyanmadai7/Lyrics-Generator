@@ -36,7 +36,7 @@ It creates training sequences from the lyrics.<br>
 The AI model learns patterns between words.<br>
 After training, the model can generate new lyrics from a starting sentence.<br>
 
-----------------------------
+--------------------------------
 
 ## Model Structure
 Embedding LayerLSTM LayerGRU LayerDense Output Layer<br>
@@ -46,7 +46,7 @@ Example<br>
 Input:Once I was sevenOutput:Once I was seven years old my mama told me<br>
 Future Ideas<br>
 
-----------------------------
+--------------------------------
 
 Train with bigger lyrics datasets<br>
 Generate longer songs<br>
