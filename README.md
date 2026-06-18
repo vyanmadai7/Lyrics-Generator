@@ -3,7 +3,7 @@
 This is a simple AI project that can generate song lyrics.<br>
 It uses TensorFlow and NumPy to train a small neural network on lyrics text and then create new words based on a starting sentence.<br>
  
-----------------------------
+--------------------------------
 
 ## What This Project Does?
 1.Reads lyrics text<br>
@@ -11,14 +11,14 @@ It uses TensorFlow and NumPy to train a small neural network on lyrics text and 
 3.Predicts the next word<br>
 4.Generates new lyrics automatically<br>
 
-----------------------------
+--------------------------------
 
 ## Tools Used
 1.Python<br>
 2.NumPy<br>
 3.TensorFlow / Keras<br>
 
-----------------------------
+--------------------------------
 
 ## Installation
 Clone the project:<br>
